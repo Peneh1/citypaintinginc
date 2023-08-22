@@ -1,19 +1,20 @@
 <div class="section section-xxl bg-transparent text-center" id="work">
-  <h3>Projects</h3>
+  <h2>Projects</h2>
     <div class="container-fluid ps-0 pe-0">
       <div class="row row-12 hoverdir justify-content-center" data-lightgallery="group">
 
-
+@foreach($portfolios as $portfolio)
         <div class="col-sm-6 col-lg-5 col-xl-3">
-          <!-- Thumbnail Modern--><a class="thumbnail thumbnail-modern context-dark hoverdir-item wow slideInRight" href="images/originals/grid-gallery-01-original.jpg" data-lightgallery="item" data-hoverdir-target=".thumbnail-modern-caption">
-            <div class="thumbnail-modern-figure"><img src="images/grid-gallery-01-471x340.jpg" alt="" width="471" height="340"/>
+          <!-- Thumbnail Modern--><a class="thumbnail thumbnail-modern context-dark hoverdir-item wow {{$portfolio['slide']}}" href="images/portfolio/originals/{{$portfolio['inside_img']}}" data-lightgallery="item" data-hoverdir-target=".thumbnail-modern-caption">
+            <div class="thumbnail-modern-figure"><img src="images/portfolio/small/{{$portfolio['outside_img']}}" alt=""  height="340px"/>
             </div>
             <div class="thumbnail-modern-caption">
               
-              <p class="thumbnail-modern-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Imperdiet tortor, consequat.</p>
-              <p class="thumbnail-modern-author">- Virginia Turner, Client</p>
+              <p class="thumbnail-modern-text">{{$portfolio['text1']}}</p>
+              <p class="thumbnail-modern-author">{{$portfolio['text2']}}</p>
             </div></a>
         </div>
+        @endforeach
 
 {{--}}       
         <div class="col-sm-6 col-lg-5 col-xl-3">

@@ -3,7 +3,7 @@
       <div class="row">
         <div class="col-md-8 col-lg-7">
           <h1>Create a cozy atmosphere in your house with us!</h1>
-          <p class="lead">At Stract, we offer first-class home repair & renovation services to residents across the US.</p>
+          <p class="lead">At City Painting, we offer first-class services to residents across the US.</p>
           <a class="btn btn-lg btn-circle btn-primary" href="#services">View All Services</a>
         </div>
       </div>
