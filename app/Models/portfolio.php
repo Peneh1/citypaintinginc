@@ -25,7 +25,7 @@ class portfolio extends Model
                 'outside_img' => '322.jpg',
                 'text1' => '322 Grand Concourse, Bronx, NY 10451',
                 'text2' => 'Building',
-                'slide' => 'slideInleft',
+                'slide' => 'slideInLeft',
 
             ],
 
@@ -52,7 +52,7 @@ class portfolio extends Model
                 'outside_img' => '322.jpg',
                 'text1' => '322 Grand Concourse, Bronx, NY 10451',
                 'text2' => 'Building',
-                'slide' => 'slideInUp',
+                'slide' => 'slideInRight',
 
             ],
 
@@ -61,7 +61,7 @@ class portfolio extends Model
                 'outside_img' => '540.jpg',
                 'text1' => '540 Waverly Ave, Brooklyn, NY 11238',
                 'text2' => 'Apartment building',
-                'slide' => 'slideInUp',
+                'slide' => 'slideInLeft',
 
             ],
 
@@ -79,7 +79,7 @@ class portfolio extends Model
                 'outside_img' => '540.jpg',
                 'text1' => '540 Waverly Ave, Brooklyn, NY 11238',
                 'text2' => 'Apartment building',
-                'slide' => 'slideInUp',
+                'slide' => 'slideInDown',
 
             ],
 
