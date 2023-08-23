@@ -23,7 +23,7 @@
               </ul>
 
               <div class="row row-lg">
-                <p class="rights"><span>&copy;&nbsp;</span><span class="copyright-year"></span><span>.&nbsp;</span><span>Citi Painting Servicis Inc</span><span>.&nbsp;</span><br><br><span>All rights reserved</span><span>.&nbsp;</span></p>
+                <p class="rights"><span>&copy;&nbsp;</span><span class="copyright-year"></span><span>.&nbsp;</span><span>Citi Painting Services Inc</span><span>.&nbsp;</span><br><br><span>All rights reserved</span><span>.&nbsp;</span></p>
                 <p style="color: #558ac6; font-size: 0.8rem"><br>Design & Developed for City Painting by <a style="color: #558ac6" href="https://peneh.com">Peneh Inc</a></p>
               </div>
 
