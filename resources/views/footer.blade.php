@@ -6,7 +6,7 @@
           <a class="h3 footer-phone" href="tel:#">+1 (718) 831-2016</a><br>
           <a class="footer-phone" href="tel:#">Fax: 718-330-0728</a>
           <address class="footer-address">320 Roebling St. #431, Brooklyn, NY 11211</address>
-          <a class="footer-mail-link" href="mailto:#">info@citypaintinginc.com</a>
+          <a class="footer-mail-link" href="mailto:joel@citypaintinginc.com">joel@citypaintinginc.com</a>
          
           
         </div>
@@ -37,5 +37,8 @@
 <div class="snackbars" id="form-output-global"></div>
 <script src="js/core.min.js"></script>
 <script src="js/script.js"></script>
+<script>
+  document.addEventListener('contextmenu', event => event.preventDefault());
+</script>
 </body>
 </html>

@@ -25,7 +25,7 @@
                   <div class="counter">16</div>
                 </div>
                 <div class="box-counter-divider"></div>
-                <p class="box-counter-title">Years Serving the community</p>
+                <p class="box-counter-title">Years of Client Satisfaction</p>
               </div>
             </div>
           </div>

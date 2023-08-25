@@ -20,16 +20,16 @@
         <div class="col-lg-7 col-xl-8">
           <div class="row row-30 shift-md-top-1">
             <div class="col-sm-6 col-md-3">
-              <div class="link-image-wrap"><a class="link-image" href="#"><img src="images/services-2-132x83.png" alt="" width="132" height="83"/></a></div>
+              <div class="link-image-wrap"><a class="link-image" href="#"><img src="images/companys/logo.png" alt="" width="132" height="83"/></a></div>
             </div>
             <div class="col-sm-6 col-md-3">
-              <div class="link-image-wrap"><a class="link-image" href="#"><img src="images/services-3-169x68.png" alt="" width="169" height="68"/></a></div>
+              <div class="link-image-wrap"><a class="link-image" href="#"><img src="images/companys/sunshine.png" alt="" width="169" height="68"/></a></div>
             </div>
             <div class="col-sm-6 col-md-3">
-              <div class="link-image-wrap"><a class="link-image" href="#"><img src="images/services-4-141x88.png" alt="" width="141" height="88"/></a></div>
+              <div class="link-image-wrap"><a class="link-image" href="#"><img src="images/companys/logo.png" alt="" width="141" height="88"/></a></div>
             </div>
             <div class="col-sm-6 col-md-3">
-              <div class="link-image-wrap"><a class="link-image" href="#"><img src="images/services-5-138x55.png" alt="" width="138" height="55"/></a></div>
+              <div class="link-image-wrap"><a class="link-image" href="#"><img src="images/companys/sunshine.png" alt="" width="138" height="55"/></a></div>
             </div>
           </div>
         </div>

@@ -34,14 +34,14 @@ class Services extends Model
                 'text' => 'From planning to execution, our professional painters and stylers will blend seamlessly into your home painting project, giving you the desired results.',
                 'img' => 'service-06-370x220.jpg'
             ],
-
-            [
+/* 
+           [
                 'title' => 'Vanetian Plaster',
                 'text' => 'Venetian Plaster is created with techniques dating back to 900 BC. It’s made from limestone rocks heated with water combined with different natural colorants such as ground marble dust. Different techniques and organic pigments are used to create various designs and texture. The addition of these textured layers and colors give Venetian plaster an elegant and rich look fit for royalty.',
                 'img' => 'service-06-370x220.jpg'
             ],
-
-            [
+        */
+           [
                 'title' => 'Wallpaper Hanging',
                 'text' => 'Our team has the knowledge, tools and products to perform wallpaper or vinyl wallcovering installation as well as removing that old wallpaper including the preparation of the surface for the new residential or commercial wallpaper.',
                 'img' => 'service-06-370x220.jpg'

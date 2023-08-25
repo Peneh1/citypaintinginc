@@ -52,7 +52,7 @@
               <div class="rd-navbar-collapse-toggle rd-navbar-fixed-element-1" data-rd-navbar-toggle=".rd-navbar-collapse"><span></span></div>
               <div class="rd-navbar-contact rd-navbar-aside-outer rd-navbar-collapse text-end">
                 <p class="rd-navbar-contact-text">Call Us for any question:</p>
-                <div class="h4 rd-navbar-contact-title"><a href="tel:#">+1 (718) 831-2016</a></div>
+                <div class="h4 rd-navbar-contact-title"><a href="tel:#">+1 (347) 831-4344</a></div>
               </div>
             </div>
           </nav>

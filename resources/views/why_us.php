@@ -26,7 +26,7 @@
                   </svg>
                 </div>
                 <div class="box-content">
-                  <h4>Quality assurance</h4>
+                  <h4>Fully Insured</h4>
                   <p>We always stand for doing our job fast and at the highest level as understand people value their time and money.</p>
                 </div>
               </article>
@@ -59,7 +59,7 @@
                   </svg>
                 </div>
                 <div class="box-content">
-                  <h4>Assordable price</h4>
+                  <h4>Client Satisfaction</h4>
                   <p>When the price is not right, be sure that it is not our price! We have the most reasonable pricing of all the competition!</p>
                 </div>
               </article>
