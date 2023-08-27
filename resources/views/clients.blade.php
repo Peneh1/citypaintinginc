@@ -26,10 +26,10 @@
               <div class="link-image-wrap"><a class="link-image" href="#"><img src="images/companys/sunshine.png" alt="" width="169" height="68"/></a></div>
             </div>
             <div class="col-sm-6 col-md-3">
-              <div class="link-image-wrap"><a class="link-image" href="#"><img src="images/companys/logo.png" alt="" width="141" height="88"/></a></div>
+              <div class="link-image-wrap"><a class="link-image" href="#"><img src="" alt="" width="141" height="88"/></a></div>
             </div>
             <div class="col-sm-6 col-md-3">
-              <div class="link-image-wrap"><a class="link-image" href="#"><img src="images/companys/sunshine.png" alt="" width="138" height="55"/></a></div>
+              <div class="link-image-wrap"><a class="link-image" href="#"><img src="" alt="" width="138" height="55"/></a></div>
             </div>
           </div>
         </div>

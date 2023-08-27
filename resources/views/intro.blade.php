@@ -3,9 +3,10 @@
       <div class="row">
         <div class="col-md-8 col-lg-7">
           <h1>City Painting Services</h1>
-          <p class="lead">At City Painters, <br>Customer service isn’t just a department,<br> it's the entire company.</p>
-          <a class="btn btn-lg btn-circle btn-primary" href="#services">View All Services</a>
+          <p class="lead">specializing in Residential and Commercial Properties</p>
+          <a class="btn btn-lg btn-circle btn-primary" href="#contact">Schedule a Free Estimate</a>
         </div>
       </div>
     </div>
   </section>
+  
