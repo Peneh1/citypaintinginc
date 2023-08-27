@@ -30,7 +30,7 @@
               </svg>
 
 
-          <p style="font-size:36px;"> "At City Painters, <b>Customer service</b> isn’t just a department, it's the entire company."</p>
+          <p style="font-size:36px;"> "At City Painting, <b>Customer service</b> isn’t just a department, it's the entire company."</p>
           </div>
 
           <div class="row row-lg">
