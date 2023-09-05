@@ -13,7 +13,18 @@ class WebsiteController extends Controller
 
         $portfolios = portfolio::index();
 
-        return view('index', [
+        return view('option1.index', [
+            'services' => $services,
+            'portfolios' => $portfolios,
+        ]);
+    }
+
+    public function option2(){
+        $services = Services::index(); 
+
+        $portfolios = portfolio::index();
+
+        return view('option2.index', [
             'services' => $services,
             'portfolios' => $portfolios,
         ]);

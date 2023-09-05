@@ -1,6 +1,7 @@
-<div class="section section-xxl bg-transparent text-center" id="work">
-  <h2>Projects</h2>
+<div class="section section-lg bg-transparent text-center" id="work">
+  <h2>Recent Projects</h2>
     <div class="container-fluid ps-0 pe-0">
+      <p>Take a look at some of our recent jobs finished this year!</p>
       <div class="row row-12 hoverdir justify-content-center" data-lightgallery="group">
 
 @foreach($portfolios as $portfolio)

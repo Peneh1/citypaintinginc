@@ -3,7 +3,7 @@
       <div class="row justify-content-center">
         <div class="col-md-8 col-xxl-6 text-center">
           <h2>What we offer</h2>
-          <p>We provide various home repair & renovation services to our new and regular customers. Feel free to find out more below.</p>
+          <p>We provide various services to our new and regular customers. Feel free to find out more below.</p>
         </div>
       </div>
       <div class="owl-carousel owl-theme-1" data-items="1" data-sm-items="2" data-lg-items="3" data-margin="30" data-dots="true">
