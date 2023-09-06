@@ -14,6 +14,6 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', [WebsiteController::class, 'index'])->name('option1.index');
+Route::get('/', [WebsiteController::class, 'index'])->name('option1.index')->middleware('AddToLog');
 
 Route::get('/new', [WebsiteController::class, 'option2'])->name('option2');
