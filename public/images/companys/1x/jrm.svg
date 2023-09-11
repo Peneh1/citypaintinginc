@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 458.1 630.2"
+	 style="enable-background:new 0 0 458.1 630.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{stroke:#000000;stroke-width:0.25;stroke-miterlimit:10;}
+	.st1{stroke:#FFFFFF;stroke-width:4;stroke-miterlimit:10;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;}
+	.st4{fill:#D2232A;}
+</style>
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  bottomLeftOrigin="true" height="16472.6" width="16383" x="-7939" y="-8641.6"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<g id="Layer_1">
+	<path class="st0" d="M228.7,515.3"/>
+	<path class="st0" d="M229.2,515.3c-0.2,0-0.4,0-0.6,0"/>
+	<path class="st0" d="M243,601"/>
+	<path class="st1" d="M449.5,2H241.8h-12.7H229v0H8.6H2v6.6v336.8v6.6h0.3v0.8c7.7,1.6,13,3.8,16,6.5c3,2.7,4.5,6.6,4.5,11.6v224.2
+		c0,5.1-1.5,9-4.6,11.7c-3.1,2.8-8.4,4.9-15.8,6.4v7h118.4v-7c-7.7-1.8-13-4-16-6.7c-3-2.7-4.5-6.6-4.5-11.6V439.8l115,161.1h13.7v0
+		h0.3v0H243l115-161.1V595c0,5-1.5,8.9-4.5,11.6c-3,2.7-8.3,4.9-16,6.7v7h118.4v-7c-7.5-1.5-12.7-3.6-15.8-6.4
+		c-3.1-2.8-4.6-6.7-4.6-11.7V371.1c0-5,1.5-8.9,4.5-11.6c3-2.7,8.3-4.8,16-6.5v-0.8h0.3v-6.6V8.6V2H449.5z"/>
+	<rect x="15" y="17.9" class="st2" width="428.1" height="319.5"/>
+	<g id="XMLID_4_">
+		<g>
+			<path d="M431,254.8v70.1H206.2c22-11.9,33.1-33.7,33.1-65.2V154.8h100.6l65.1,99.9H431z"/>
+			<path d="M431,117.5v122.4l-55.1-85.5c16.9-2.9,31.1-9.8,42.8-20.8C423.8,128.6,427.9,123.3,431,117.5z"/>
+			<path d="M431,29.3v31.1c-4.4-8.2-11-15.1-19.7-20.7c-7.7-4.8-16.6-8.2-26.7-10.5H431z"/>
+			<path d="M355.6,52.7c31.8,0,47.6,12.7,47.6,38.2c0,24.9-16.5,37.3-49.7,37.3H239.2v-24.2V52.7H355.6z"/>
+			<path d="M206.8,29.3v222.8c0,24.7-6.2,41.2-18.6,49.6c-9.4,6.6-26.7,9.9-52.1,9.9c-52.4,0-78.6-14-78.6-42v-35.5H27.4V29.3H206.8
+				z"/>
+			<path d="M57.8,324.9H27.4v-38C31.2,303.6,41.3,316.3,57.8,324.9z"/>
+		</g>
+		<g>
+			<path class="st3" d="M206.8,252.1V29.3H27.4v204.8h30.2v35.5c0,28,26.2,42,78.6,42c25.3,0,42.7-3.3,52.1-9.9
+				C200.6,293.4,206.8,276.8,206.8,252.1z"/>
+			<path class="st3" d="M431,324.9v-70.1h-26l-65.1-99.9H239.2v104.8c0,31.6-11.1,53.3-33.1,65.2H431z"/>
+			<path class="st3" d="M431,239.9V117.5c-3.1,5.8-7.1,11.1-12.3,16.2c-11.6,11-25.9,17.9-42.8,20.8L431,239.9z"/>
+			<path class="st3" d="M431,60.5V29.3h-46.4c10.1,2.2,19,5.7,26.7,10.5C420,45.4,426.5,52.3,431,60.5z"/>
+			<path class="st3" d="M403.2,90.8c0-25.4-15.8-38.2-47.6-38.2H239.2v51.3v24.2h114.3C386.7,128.2,403.2,115.7,403.2,90.8z"/>
+			<path class="st3" d="M27.4,324.9h30.4c-16.4-8.6-26.6-21.2-30.4-38V324.9z"/>
+		</g>
+	</g>
+	<g id="XMLID_2_">
+		<g>
+		</g>
+		<g>
+		</g>
+	</g>
+	<path class="st4" d="M230.3,513.4"/>
+	<g id="white">
+		<path class="st2" d="M314.6,348H146.1c-9.9,2.5-14.8,7.1-14.8,13.9c0,6.7,3.6,14.8,10.8,24.5l88.3,123.8l88.3-123.8
+			c7.2-9.6,10.8-17.8,10.8-24.5C329.4,355.1,324.5,350.5,314.6,348z"/>
+	</g>
+</g>
+<g id="Diamond">
+	<path class="st4" d="M314.6,348H146.1c-9.9,2.5-14.8,7.1-14.8,13.9c0,6.7,3.6,14.8,10.8,24.5l88.3,123.8l88.3-123.8
+		c7.2-9.6,10.8-17.8,10.8-24.5C329.4,355.1,324.5,350.5,314.6,348z"/>
+</g>
+</svg>

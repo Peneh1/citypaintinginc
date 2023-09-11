@@ -76,10 +76,10 @@ class portfolio extends Model
             ],
 
             [
-                'inside_img' => '540.jpg',
-                'outside_img' => '540.jpg',
-                'text1' => '540 Waverly Ave, Brooklyn, NY 11238',
-                'text2' => 'Apartment building',
+                'inside_img' => '1000.jpg',
+                'outside_img' => '1000.jpg',
+                'text1' => '1000 Westchester AveBronx, NY 10459',
+                'text2' => 'Completed 2023',
                 'slide' => 'slideInLeft',
 
             ],
