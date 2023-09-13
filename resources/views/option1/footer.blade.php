@@ -1,4 +1,4 @@
-<footer class="footer section-footer bg-primary">
+<footer class="footer section-footer" style="background-color: rgba(18, 32, 49, 0.9); color:#fff;">
     <div class="container">
       <div class="row row-50">
         <div class="col-lg-6"><a class="brand" href=""><img src="images/logo-inverse-124x30.svg" alt="" width="124" height="30"/></a>
@@ -39,7 +39,9 @@
      
     </div>
   </footer>
-
+  <video class="video" playsinline autoplay muted loop poster="images/intro.jpg" id="bgvid">
+    <source src="images/intro.mp4" type="video/mp4">
+  </video>
 </div>
 <div class="snackbars" id="form-output-global"></div>
 <script src="js/core.min.js"></script>

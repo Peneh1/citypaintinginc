@@ -1,4 +1,4 @@
-<section class="section section-lg bg-gradient">
+<section class="section section-lg" style="background-color: rgba(255, 255, 255, 0.7);">
         <div class="container">
           <div class="row justify-content-center">
             <div class="col-md-8 col-xxl-6 text-center">

@@ -2707,7 +2707,7 @@ html [class*='section-'].section-bottom-0 {
 }
 
 .bg-primary {
-	background-color: #2d527c;
+	background: linear-gradient(rgba(17, 10, 73, 0.5), rgba(17, 10, 73, 0.5));
 }
 
 .bg-primary:not([style*="background-"]) + .bg-primary:not([style*="background-"]) {
@@ -19487,7 +19487,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 	margin:0px;
 	height:100vh;
 	width: 100vw;
-	background: linear-gradient(rgba(236, 115, 46, 0.2), rgba(245, 236, 119, 0.2)),  url('/images/intro-6.jpg'); 
+	background: linear-gradient(rgba(236, 115, 46, 0.2), rgba(245, 236, 119, 0.2)),  url('/images/intr.jpg'); 
 	background-repeat:  no-repeat ;
 	background-size: cover;
 	background-position: center;
