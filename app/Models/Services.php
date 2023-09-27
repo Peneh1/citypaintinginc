@@ -13,7 +13,7 @@ class Services extends Model
         $data = [
             [
                 'title' => 'Taping',
-                'text' => 'Our team takes pride in not only delivering best taping service, but offering reliable texturing, drywall honing at an affordable price.',
+                'text' => 'We offer superior and authentic taping services that also come with amazing drywall honing and reliable texturing, all at the best prices.',
                 'img' => 'taping.jpg'
             ],
 
