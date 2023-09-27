@@ -10,7 +10,7 @@
             <div class="col-md-6 col-lg-4">
               <article class="box-advantage">
                 <div class="box-icon">
-                <img src="/images/icons/client-satisfacation.png" alt="">
+                <img src="/images/icons/client-satisfacation.svg" width="122px" alt="">
 
                 </div>
                 <div class="box-content">
@@ -22,7 +22,7 @@
             <div class="col-md-6 col-lg-4">
               <article class="box-advantage bg-sky-blue">
                 <div class="box-icon">
-                <img src="/images/icons/skilled-team.png" alt="">
+                <img src="/images/icons/skilled-team.svg" width="122px" alt="">
 
                 </div>
                 <div class="box-content">
@@ -34,7 +34,7 @@
             <div class="col-md-6 col-lg-4">
               <article class="box-advantage">
                 <div class="box-icon">
-                  <img src="/images/icons/insured.png" alt="">
+                  <img src="/images/icons/insured.svg" width="122px" alt="">
                 </div>
                 <div class="box-content">
                   <h4>We are covered by insurance</h4>
