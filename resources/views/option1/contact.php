@@ -2,8 +2,8 @@
         <div class="container">
           <div class="row row-30 align-items-md-center">
             <div class="col-md-6 col-xl-5">
-              <h2>Take advantage<br class="d-none d-xxl-block"> of the benefits and services of our specialists</h2>
-              <p class="pe-xl-3 pt-xl-4 mb-xl-5">Get the best customer service and efficient Painting Services. Make an inquiry today to get the services tomorrow.</p>
+              <h2>You can contact us now<br class="d-none d-xxl-block">and take advantage of our specialist services.</h2>
+              <p class="pe-xl-3 pt-xl-4 mb-xl-5">In order to easily access our professional painting services and excellent customer service, you can contact us now. You can make inquiries about the services that we offer.</p>
             </div>
             
             <div class="col-md-6 col-xl-5 offset-xl-2">
