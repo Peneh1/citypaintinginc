@@ -39,7 +39,7 @@
      
     </div>
   </footer>
-  <video class="video" playsinline autoplay muted loop poster="images/intro-4.jpg" id="bgvid">
+  <video class="video" playsinline autoplay muted loop poster="images/intro-7.jpg" id="bgvid">
     <source src="images/intro.mp" type="video/mp4">
   </video>
 </div>

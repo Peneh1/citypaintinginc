@@ -11153,7 +11153,7 @@ html:not(.ie-11):not(.ie-10) .countdown-circle {
 	padding: 0;
 	border: none;
 	border-radius: 50%;
-	background-color: #ccc;
+	background-color: #898989;
 }
 
 .owl-dot.active {
@@ -19503,6 +19503,27 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 
 
 }
+
+.video {
+	object-fit: cover;
+	object-position: top;
+	width: 100vw;
+	height: 100vh;
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: -10;
+  }
+  
+	.viewport-header {
+	position: relative;
+	/* height: 100vh;
+	text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center; */
+  
+  }
 
 
  

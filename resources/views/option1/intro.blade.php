@@ -14,24 +14,4 @@
 </div>{{--end of bcaground pic div--}}
 
 
-<style>
-.video {
-  object-fit: cover;
-  object-position: right;
-  width: 100vw;
-  height: 100vh;
-  position: fixed;
-  top: 0;
-  left: 0;
-  z-index: -10;
-}
 
-  .viewport-header {
-  position: relative;
-  /* height: 100vh;
-  text-align: center;
-  display: flex;
-  align-items: center;
-  justify-content: center; */
-
-}</style>

@@ -1,4 +1,4 @@
-<div class="section section-lg bg-transparent text-center" id="work">
+<div class="section section-lg text-center" style="background-color: rgba(245,250,254, 0.8);" id="work">
   <h2>Recent Projects</h2>
     <div class="container-fluid ps-0 pe-0">
       <p>Take a look at some of our recent jobs finished this year!</p>
