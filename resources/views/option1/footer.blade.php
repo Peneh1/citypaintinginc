@@ -40,7 +40,7 @@
     </div>
   </footer>
   <video class="video" playsinline autoplay muted loop poster="images/intro-7.jpg" id="bgvid">
-    <source src="images/intro.mp" type="video/mp4">
+    <source src="images/intro.mp4" type="video/mp4">
   </video>
 </div>
 <div class="snackbars" id="form-output-global"></div>
