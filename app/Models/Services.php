@@ -38,7 +38,7 @@ class Services extends Model
            [
                 'title' => 'Vanetian Plaster',
                 'text' => 'Venetian Plaster is created with techniques dating back to 900 BC. It’s made from limestone rocks heated with water combined with different natural colorants such as ground marble dust. Different techniques and organic pigments are used to create various designs and texture. The addition of these textured layers and colors give Venetian plaster an elegant and rich look fit for royalty.',
-                'img' => 'service-06-370x220.jpg'
+                'img' => 'vanetian.jpg'
             ],
         
            [
@@ -62,7 +62,7 @@ class Services extends Model
             [
                 'title' => 'Epoxy Paint',
                 'text' => 'Applying and repairing epoxy floor coatings for business and commercial buildings with extended durability in mind takes skill and experience. The floor coating specialists at City Painting will ensure that your commercial epoxy floor coating project is planned and completed successfully.',
-                'img' => 'service-06-370x220.jpg'
+                'img' => 'epoxy.jpg'
             ],
         ];
 
