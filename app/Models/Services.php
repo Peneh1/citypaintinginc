@@ -13,7 +13,7 @@ class Services extends Model
         $data = [
             [
                 'title' => 'Taping',
-                'text' => 'We offer superior and authentic taping services that also come with amazing drywall honing and reliable texturing, all at the best prices.',
+                'text' => 'Our services includes offering authentic and premium taping solutions that also feature topnitch drywall honing. As a part of this service, our clients also get the most reliable texturing solutions. You can all of this premium package at very competitive prices.',
                 'img' => 'taping.jpg'
             ],
 
@@ -37,7 +37,7 @@ class Services extends Model
  
            [
                 'title' => 'Vanetian Plaster',
-                'text' => 'Venetian Plaster is created with techniques dating back to 900 BC. It’s made from limestone rocks heated with water combined with different natural colorants such as ground marble dust. Different techniques and organic pigments are used to create various designs and texture. The addition of these textured layers and colors give Venetian plaster an elegant and rich look fit for royalty.',
+                'text' => 'Venetian Plaster is made from limestone rocks heated with water combined with different natural colorants such as ground marble dust. Different techniques and organic pigments are used to create various designs and texture. The addition of these textured layers and colors give Venetian plaster an elegant and rich look fit for royalty.',
                 'img' => 'vanetian.jpg'
             ],
         
@@ -49,7 +49,7 @@ class Services extends Model
 
             [
                 'title' => 'Intumescent Painting',
-                'text' => 'City Painting, a seasoned intumescent fireproofing contractor, assures proper application of these materials by our specialized, highly trained paint crews. Strict safety, property and site protection protocols mean quality results. Easy customer interface, rapid deployment and competitive pricing are all hallmarks of our great reputation.',
+                'text' => ' Intumescent paint is the most commonly used coating to protect steel against fire and acts as an insulator, forming a solid char in response to heat. We at City Painting, assures proper application of these materials by our specialized, highly trained paint crews. Strict safety, property and site protection protocols mean quality results.',
                 'img' => 'intumescent.jpg'
             ],
 /*
