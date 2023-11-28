@@ -127,7 +127,7 @@ table.body .article {
                         </table>
                         <p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin: 0; margin-bottom: 15px;">Name: <b>{{$mailData['name']}}</b></p>
                         
-                        <p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin: 0; margin-bottom: 15px;">Phone: <a href="mailto:{{$mailData['phone']}}"><b>{{$mailData['email']}}</b></a></p>
+                        <p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin: 0; margin-bottom: 15px;">Phone: <b>{{$mailData['phone']}}</b></a></p>
                         
                         <p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin: 0; margin-bottom: 15px;">Email: <b>{{$mailData['email']}}</b></p>
                         
