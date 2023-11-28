@@ -2,7 +2,7 @@
         <div class="container">
           <div class="row row-30 align-items-md-center">
             <div class="col-md-6 col-xl-5">
-              <h2>You can contact us now<br class="d-none d-xxl-block">and take advantage of our specialist services.</h2>
+              <h2>You can contact us now<br>and take advantage of our specialist services.</h2>
               <p class="pe-xl-3 pt-xl-4 mb-xl-5">In order to easily access our professional painting services and excellent customer service, you can contact us now. You can make inquiries about the services that we offer.</p>
             </div>
             
@@ -27,7 +27,7 @@
                       </svg>
                     </div>
                     <input class="form-input form-input-lg form-input-extended" id="contact-name" type="text" name="name" data-constraints="@@Required">
-                    <label class="form-label form-label-lg form-label-extended" for="contact-name">Your name</label>
+                    <label class="form-label form-label-lg form-label-extended" for="contact-name">Your Name</label>
                   </div>
     
     
@@ -39,7 +39,7 @@
                       </svg>
                     </div>
                     <input class="form-input form-input-lg form-input-extended" id="contact-phone" type="text" name="phone" data-constraints="@@Numeric">
-                    <label class="form-label form-label-lg form-label-extended" for="contact-phone">Your phone</label>
+                    <label class="form-label form-label-lg form-label-extended" for="contact-phone">Your Phone</label>
                   </div>
     
     
@@ -50,7 +50,7 @@
                     </svg>
                     </div>
                     <input class="form-input form-input-lg form-input-extended" id="contact-email" type="text" name="email" data-constraints="@@Email">
-                    <label class="form-label form-label-lg form-label-extended" for="contact-email">Your email</label>
+                    <label class="form-label form-label-lg form-label-extended" for="contact-email">Your Email</label>
                   </div>
     
     
@@ -66,7 +66,7 @@
     
                     </div>
                     <textarea class="form-input form-input-lg form-input-extended" id="contact-comments" type="text" name="comments"></textarea>
-                    <label class="form-label form-label-lg form-label-extended" for="contact-comments">Your comments</label>
+                    <label class="form-label form-label-lg form-label-extended" for="contact-comments">Your Message</label>
                   </div>
     
                   
