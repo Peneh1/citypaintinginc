@@ -16,7 +16,7 @@ class MailController extends Controller
             'name' => $request->name,
             'phone' => $request->phone,
             'email' => $request->email,
-            'message' => $request->message,
+            'message' => $request->comments,
         ];
 
         
