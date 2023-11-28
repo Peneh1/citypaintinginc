@@ -1422,7 +1422,7 @@
 
 								$.ajax({
 									method: "POST",
-									url: "bat/reCaptcha.php",
+									url: "/contact_form",
 									data: {'g-recaptcha-response': captchaToken},
 									async: false
 								})

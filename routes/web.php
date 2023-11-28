@@ -1,7 +1,8 @@
 <?php
 
-use App\Http\Controllers\WebsiteController;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\MailController;
+use App\Http\Controllers\WebsiteController;
 
 /*
 |--------------------------------------------------------------------------
@@ -17,3 +18,5 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', [WebsiteController::class, 'index'])->name('option1.index')->middleware('AddToLog');
 
 Route::get('/new', [WebsiteController::class, 'option2'])->name('option2');
+
+Route::post('/contact_form', [MailController::class, 'index'])->name('mail.form');

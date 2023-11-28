@@ -10,7 +10,8 @@
               <div class="box-form bg-white">
                 <h3>Request A Bid Now</h3>
                 <p>Enter your contact details for an Estimate</p>
-                <form class="rd-form rd-mailform" data-form-output="form-output-global" data-form-type="contact" method="post" action="bat/rd-mailform.php">
+                <form class="rd-form rd-mailform" data-form-output="form-output-global" data-form-type="contact" method="post" action="/contact_form">
+                  @csrf
                   <div class="form-wrap">
                     <div class="form-input-icon">
                       <svg class="icon-fill" width="18" height="18" viewBox="0 0 18 18" fill="none">
@@ -25,7 +26,7 @@
                         </defs>
                       </svg>
                     </div>
-                    <input class="form-input form-input-lg form-input-extended" id="contact-name" type="text" name="name" data-constraints="@Required">
+                    <input class="form-input form-input-lg form-input-extended" id="contact-name" type="text" name="name" data-constraints="@@Required">
                     <label class="form-label form-label-lg form-label-extended" for="contact-name">Your name</label>
                   </div>
     
@@ -37,7 +38,7 @@
                         <path fill-rule="evenodd" clip-rule="evenodd" d="M0.046654 1.74425C-0.186815 0.858105 0.485832 0 1.39798 0H5.3521C5.97179 0 6.51777 0.406179 6.69428 0.998507L7.72889 4.47043C7.9163 5.09933 7.64002 5.7745 7.06167 6.09137L3.40007 8.0975C3.57683 8.47475 3.8429 8.9829 4.18179 9.54253C4.72342 10.4369 5.41465 11.4018 6.15518 12.1184C6.90612 12.8451 7.89437 13.4834 8.80026 13.9698C9.34179 14.2606 9.83428 14.4867 10.2056 14.6398L11.7113 11.2713C11.9934 10.6402 12.6947 10.3117 13.3608 10.4942L16.9707 11.4831C17.5787 11.6496 18 12.2007 18 12.8294V16.6159C18 17.4814 17.2092 18.1579 16.3311 17.9677C15.0884 17.6986 12.63 17.1041 10.3471 16.1788C9.9138 16.0482 9.06818 15.6994 8.13642 15.1991C7.17204 14.6813 6.06002 13.9719 5.18006 13.1204C4.31952 12.2877 3.55671 11.2113 2.98318 10.2642C2.41447 9.32511 1.99528 8.45183 1.84841 8.00297C1.15901 5.8959 0.410642 3.12579 0.046654 1.74425ZM11.5171 15.1353C13.4823 15.869 15.4976 16.3576 16.5998 16.5972V12.8294L12.9899 11.8405L11.5171 15.1353ZM12.9894 11.8404C12.9889 11.8402 12.989 11.8403 12.9895 11.8403C12.9898 11.8403 12.9897 11.8402 12.9895 11.8403L12.9894 11.8404C12.9894 11.8404 12.9894 11.8404 12.9894 11.8404ZM2.92329 6.76566L6.38671 4.86811L5.3521 1.39619H1.40265C1.72119 2.60502 2.32558 4.84412 2.92329 6.76566Z"></path>
                       </svg>
                     </div>
-                    <input class="form-input form-input-lg form-input-extended" id="contact-phone" type="text" name="phone" data-constraints="@Numeric">
+                    <input class="form-input form-input-lg form-input-extended" id="contact-phone" type="text" name="phone" data-constraints="@@Numeric">
                     <label class="form-label form-label-lg form-label-extended" for="contact-phone">Your phone</label>
                   </div>
     
@@ -48,7 +49,7 @@
                         <path fill-rule="evenodd" clip-rule="evenodd" d="M0,2h16v12H0V2z M1.5,3.5v9h13v-9H1.5z M0,2l8,6l8-6v2l-8,6L0,4V2z"/>
                     </svg>
                     </div>
-                    <input class="form-input form-input-lg form-input-extended" id="contact-email" type="text" name="email" data-constraints="@Email">
+                    <input class="form-input form-input-lg form-input-extended" id="contact-email" type="text" name="email" data-constraints="@@Email">
                     <label class="form-label form-label-lg form-label-extended" for="contact-email">Your email</label>
                   </div>
     
