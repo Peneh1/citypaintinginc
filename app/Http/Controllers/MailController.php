@@ -22,7 +22,7 @@ class MailController extends Controller
         
         try{
 
-            Mail::to('info@peneh.com')->send(new ContactForm($mailData));
+            Mail::to('est@citypaintinginc.com')->send(new ContactForm($mailData));
             die("MF000");
 
         } catch(Exception){

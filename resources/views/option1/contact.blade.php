@@ -1,3 +1,5 @@
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
 <section class="section section-lg bg-default" id="contact">
         <div class="container">
           <div class="row row-30 align-items-md-center">
@@ -69,12 +71,14 @@
                     <label class="form-label form-label-lg form-label-extended" for="contact-comments">Your Message</label>
                   </div>
     
-                  
+                  <div class=" form-input-lg form-input-extended g-recaptcha" data-sitekey="6Lf1WSYpAAAAAJLlSeTV8OBGnxWb2ccLIoHpAgrB"></div>
+
     
     
     
                   <div class="form-wrap">
-                    <button class="btn btn-block btn-lg btn-circle btn-primary" type="submit">Submit Request</button>
+                    <button class="btn btn-block btn-lg btn-circle btn-primary"
+                     type="submit">Submit Request</button>
                   </div>
                   
                 </form>
@@ -84,3 +88,4 @@
           </div>
         </div>
       </section>
+
