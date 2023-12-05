@@ -1384,12 +1384,14 @@
 					'MF003': 'Please, define email field in your form!',
 					'MF004': 'Please, define type of your form!',
 					'MF254': 'Something went wrong with PHPMailer!',
-					'MF255': 'Aw, snap! Something went wrong.'
+					'MF255': 'Aw, snap! Something went wrong.',
+					'CPT002': 'Something wrong with google reCaptcha'
+
 				};
 
 			for (i = 0; i < plugins.rdMailForm.length; i++) {
 				var $form = $(plugins.rdMailForm[i]),
-					formHasCaptcha = false;
+					formHasCaptcha = true;
 
 				$form.attr('novalidate', 'novalidate').ajaxForm({
 					data: {
@@ -1423,7 +1425,7 @@
 								$.ajax({
 									method: "POST",
 									url: "/contact_form",
-									data: {'g-recaptcha-response': captchaToken},
+									data: {'g_recaptcha_response': captchaToken},
 									async: false
 								})
 									.done(function (responceCode) {
