@@ -1383,7 +1383,7 @@
 					'MF002': 'Form will not work locally!',
 					'MF003': 'Please, define email field in your form!',
 					'MF004': 'Please, define type of your form!',
-					'MF254': 'Something went wrong with PHPMailer!',
+					'MF254': 'reCaptcha Error',
 					'MF255': 'Aw, snap! Something went wrong.',
 					'CPT002': 'Something wrong with google reCaptcha'
 

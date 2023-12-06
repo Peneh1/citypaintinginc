@@ -19,7 +19,7 @@ class Mail extends Model
     $getUrl = $url."?".$data;
 
 $ch = curl_init();
-curl_setopt($ch, CURLOPT_POST, true);
+//curl_setopt($ch, CURLOPT_POST, true);
 //curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, FALSE);
 curl_setopt($ch, CURLOPT_FOLLOWLOCATION, TRUE);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, TRUE);
@@ -35,8 +35,11 @@ if(curl_error($ch)){
     $response = json_decode($response, true);
 
    
-        //dd($getUrl);
-        return $response['success'];
+        if($response['success'] == true):
+            return true;
+        else:
+            return $response['error-codes'][0];
+        endif;
     
 }
    
