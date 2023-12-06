@@ -11,9 +11,8 @@ class Mail extends Model
 
     public static function validad_recapture($reCAPTCHA){
   
-    $secret_key = '6Lf1WSYpAAAAAG75f--FBbvM-0jKMdYUGhCzIk7f';
-    $url = "https://www.google.com/recaptcha/api/siteverify";
-    $dataArray = ['secret' => $secret_key, 'response' => $reCAPTCHA];
+    $url = "https://google.com/recaptcha/api/siteverify";
+    $dataArray = ['secret' => env('RECAPTCHA_SECRET_KEY'), 'response' => $reCAPTCHA];
 
     $data = http_build_query($dataArray);
 
@@ -21,7 +20,7 @@ class Mail extends Model
 
 $ch = curl_init();
 curl_setopt($ch, CURLOPT_POST, true);
-curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, FALSE);
+//curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, FALSE);
 curl_setopt($ch, CURLOPT_FOLLOWLOCATION, TRUE);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, TRUE);
 curl_setopt($ch, CURLOPT_URL, $getUrl);
@@ -29,13 +28,14 @@ curl_setopt($ch, CURLOPT_TIMEOUT, 80);
    
 $response = curl_exec($ch);
     
+
 if(curl_error($ch)){
     return 'Request Error:' . curl_error($ch);
 }else{
     $response = json_decode($response, true);
 
    
-        dd($response);
+        //dd($getUrl);
         return $response['success'];
     
 }
