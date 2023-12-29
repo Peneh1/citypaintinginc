@@ -27,18 +27,23 @@ curl_setopt($ch, CURLOPT_URL, $getUrl);
 curl_setopt($ch, CURLOPT_TIMEOUT, 80);
    
 $response = curl_exec($ch);
-    
+
 
 if(curl_error($ch)){
     return 'Request Error:' . curl_error($ch);
 }else{
     $response = json_decode($response, true);
-
    
         if($response['success'] == true):
-            return true;
+
+            //check for score
+            if($response['score'] > 0.5):
+                 return true;
+            endif;
+            
         else:
-            return $response['error-codes'][0];
+            return false;
+            //$response['error-codes'][0];
         endif;
     
 }

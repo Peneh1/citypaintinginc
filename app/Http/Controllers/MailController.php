@@ -12,7 +12,7 @@ class MailController extends Controller
 {
    public function index(Request $request){
 
-$valid = MailModel::validad_recapture($request['g-recaptcha-response']);
+$valid = MailModel::validad_recapture($request->recaptcha_response);
    if($valid !== true):
    // return $valid;
    return 'MF254';
