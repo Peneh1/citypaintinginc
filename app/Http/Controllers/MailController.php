@@ -14,7 +14,7 @@ class MailController extends Controller
 
 $valid = MailModel::validad_recapture($request->recaptcha_response);
    if($valid !== true):
-   // return $valid;
+   return $valid;
    return 'MF254';
    endif;
 

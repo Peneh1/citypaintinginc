@@ -1425,7 +1425,7 @@
 								$.ajax({
 									method: "POST",
 									url: "/contact_form",
-									data: {'g_recaptcha_response': captchaToken},
+									// data: {'g_recaptcha_response': captchaToken},
 									async: false
 								})
 									.done(function (responceCode) {
