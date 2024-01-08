@@ -1383,7 +1383,7 @@
 					'MF002': 'Form will not work locally!',
 					'MF003': 'Please, define email field in your form!',
 					'MF004': 'Please, define type of your form!',
-					'MF254': 'reCaptcha Error',
+					'MF254': 'reCaptcha Validation Failed',
 					'MF255': 'Aw, snap! Something went wrong.',
 					'CPT002': 'Something wrong with google reCaptcha'
 
@@ -1391,7 +1391,7 @@
 
 			for (i = 0; i < plugins.rdMailForm.length; i++) {
 				var $form = $(plugins.rdMailForm[i]),
-					formHasCaptcha = true;
+					formHasCaptcha = false;
 
 				$form.attr('novalidate', 'novalidate').ajaxForm({
 					data: {
@@ -1420,7 +1420,7 @@
 										'CPT002': 'Something wrong with google reCaptcha'
 									};
 
-								formHasCaptcha = true;
+								formHasCaptcha = false;
 
 								$.ajax({
 									method: "POST",

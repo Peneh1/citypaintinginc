@@ -39,11 +39,13 @@ if(curl_error($ch)){
             //check for score
             if($response['score'] > 0.5):
                  return true;
+            else:
+                return false;
             endif;
             
         else:
-           // return false;
-            return $response['error-codes'][0];
+           return false;
+           // return $response['error-codes'][0];
         endif;
     
 }
