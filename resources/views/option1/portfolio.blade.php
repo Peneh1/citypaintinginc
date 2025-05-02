@@ -1,11 +1,11 @@
 <div class="section section-lg text-center" style="background-color: rgba(245,250,254, 0.8);" id="work">
   <h2>Recent Projects</h2>
-    <div class="container-fluid ps-0 pe-0">
+    <div class="container-fluid ps-0 pe-0" style="padding: 0px 5% !important;">
       <p>Take a look at some of our recent jobs finished this year!</p>
       <div class="row row-12 hoverdir justify-content-center" data-lightgallery="group">
 
 @foreach($portfolios as $portfolio)
-        <div class="col-sm-6 col-lg-5 col-xl-3">
+        <div class="col-sm-6 col-md-4">
           <!-- Thumbnail Modern--><a class="thumbnail thumbnail-modern context-dark hoverdir-item wow {{$portfolio['slide']}}" href="images/portfolio/originals/{{$portfolio['inside_img']}}" data-lightgallery="item" data-hoverdir-target=".thumbnail-modern-caption">
             <div class="thumbnail-modern-figure"><img src="images/portfolio/small/{{$portfolio['outside_img']}}" alt=""  height="340px"/>
             </div>

@@ -58,9 +58,9 @@ class portfolio extends Model
             ],
 
             [
-                'inside_img' => 'kj.webp',
-                'outside_img' => 'kj.jpg',
-                'text1' => 'Veyoel Moshe Gardens Condo Apartment Complex',
+                'inside_img' => '237.jpg',
+                'outside_img' => '237.jpg',
+                'text1' => '237 mcGuinness blvd brooklyn ny 11222',
                 'text2' => ' Taping, Painting',
                 'slide' => 'slideInDown',
 
@@ -79,6 +79,15 @@ class portfolio extends Model
                 'inside_img' => '1000.jpg',
                 'outside_img' => '1000.jpg',
                 'text1' => '1000 Westchester Ave Bronx, NY 10459',
+                'text2' => 'Panting, Epoxy Painting',
+                'slide' => 'slideInLeft',
+
+            ],
+
+            [
+                'inside_img' => '44-01.jpg',
+                'outside_img' => '44-01.jpg',
+                'text1' => '44-1 Northern Blvd Long Island City, NY 11101',
                 'text2' => 'Panting, Epoxy Painting',
                 'slide' => 'slideInLeft',
 
